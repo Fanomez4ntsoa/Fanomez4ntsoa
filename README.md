@@ -15,4 +15,4 @@
 <a href="https://instagram.com/__voary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__voary" height="30" width="40" /></a>
 </p>
 
-<p align="center"> <img align="center" bg="black" src="https://github-readme-stats.vercel.app/api/top-langs?username=fanomez4ntsoa&show_icons=true&locale=en&layout=compact&theme=radical" alt="fanomez4ntsoa" /> </p>
+<p align="left"> <img align="left" bg="black" src="https://github-readme-stats.vercel.app/api/top-langs?username=fanomez4ntsoa&show_icons=true&locale=en&layout=compact&theme=radical" alt="fanomez4ntsoa" /> </p>
