@@ -1,5 +1,5 @@
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fanomez4ntsoa&show_icons=true&theme=radical&count_private=true&locale=en" alt="fanomez4ntsoa" /> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fanomez4ntsoa&theme=radical" alt="fanomez4ntsoa" /></p>
+<p>&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=fanomez4ntsoa&show_icons=true&theme=radical&count_private=true&locale=en" alt="fanomez4ntsoa" /> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fanomez4ntsoa&theme=radical" alt="fanomez4ntsoa"/> </p>
 <p align="center"><img align="center" bg="black" src="https://github-readme-stats.vercel.app/api/top-langs?username=fanomez4ntsoa&show_icons=true&locale=en&layout=compact&theme=radical" alt="fanomez4ntsoa" /></p>
 
 ## How to reach me : 
