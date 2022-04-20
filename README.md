@@ -1,5 +1,5 @@
 
-<p>&nbsp; <img align="right" src="https://github-readme-stats.vercel.app/api?username=fanomez4ntsoa&show_icons=true&theme=radical&count_private=true&locale=en" alt="fanomez4ntsoa" /> <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=fanomez4ntsoa&theme=radical" alt="fanomez4ntsoa"/> </p>
+<p>&nbsp; <img align="right" src="https://github-readme-stats.vercel.app/api?username=fanomez4ntsoa&show_icons=true&theme=algolia&count_private=true&locale=en" alt="fanomez4ntsoa" /> <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=fanomez4ntsoa&theme=algolia" alt="fanomez4ntsoa"/> </p>
 
 ## How to reach me : 
 - GitHub : https://github.com/Fanomez4ntsoa 
@@ -15,4 +15,4 @@
 <a href="https://instagram.com/__voary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__voary" height="30" width="40" /></a>
 </p>
 
-<p align="left"> <img align="left" bg="black" src="https://github-readme-stats.vercel.app/api/top-langs?username=fanomez4ntsoa&show_icons=true&locale=en&layout=compact&theme=radical" alt="fanomez4ntsoa" /> </p>
+<p align="left"> <img align="left" bg="black" src="https://github-readme-stats.vercel.app/api/top-langs?username=fanomez4ntsoa&show_icons=true&locale=en&layout=compact&theme=algolia" alt="fanomez4ntsoa" /> </p>
