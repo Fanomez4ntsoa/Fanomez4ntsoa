@@ -1,18 +1,28 @@
 
-<p>&nbsp; <img align="right" src="https://github-readme-stats.vercel.app/api?username=fanomez4ntsoa&show_icons=true&theme=algolia&count_private=true&locale=en" alt="fanomez4ntsoa" /> <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=fanomez4ntsoa&theme=algolia" alt="fanomez4ntsoa"/> </p>
+<p align="center"> <img alt="Coding" width="350" src="https://raw.githubusercontent.com/Fanomez4ntsoa/Fanomez4ntsoa/main/assets/gif-profile.gif"/> </p>
 
-## How to reach me : 
+## Contact : 
 - GitHub : https://github.com/Fanomez4ntsoa 
 - Facebook : https://facebook.com/voary.randrianarison.fanomezantsoa 
 - Linkedin: https://www.linkedin.com/in/voary-fanomezantsoa-randrianarison/ 
 - Email : voary.fanomezantsoa@gmail.com
 
-## Connect with me :
-<p align="left">
-<a href="https://codepen.io/voary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="voary" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/voary fanomezantsoa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="voary fanomezantsoa" height="30" width="40" /></a>
-<a href="https://fb.com/voary randrianarison" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="voary randrianarison" height="30" width="40" /></a>
-<a href="https://instagram.com/__voary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__voary" height="30" width="40" /></a>
+## Mes Réseaux :
+
+<p align="center">
+<a href="https://codepen.io/voary"><img src="https://img.shields.io/badge/-@voary-1769FF?style=flat&logo=Codepen&logoColor=white"></a>
+<a href="https://linkedin.com/in/voary fanomezantsoa"><img src="https://img.shields.io/badge/-Voary%20fanomezantsoa-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:voary.fanomezantsoa@gmail.com"><img src="https://img.shields.io/badge/-voary.fanomezantsoa@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://instagram.com/__voary"><img src="https://img.shields.io/badge/-@__voary-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://facebook.com/voary.randrianarison.fanomezantsoa"><img src="https://img.shields.io/badge/-@Voary Randrianarison-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
 
-<p align="left"> <img align="left" bg="black" src="https://github-readme-stats.vercel.app/api/top-langs?username=fanomez4ntsoa&show_icons=true&locale=en&layout=compact&theme=algolia" alt="fanomez4ntsoa" /> </p>
+
+
+## Github Analytics
+<p align="center">
+<a href="https://github.com/Fanomez4ntsoa">
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=fanomez4ntsoa&theme=algolia"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fanomez4ntsoa&show_icons=true&locale=en&layout=compact&theme=algolia"/>
+</a>
+</p>
