@@ -1,10 +1,9 @@
 
-<p align="center"> <img alt="Coding" width="350" src="https://raw.githubusercontent.com/Fanomez4ntsoa/Fanomez4ntsoa/main/assets/gif-profile.gif"/> </p>
+## <p align="center"> <img alt="Coding" width="350" src="https://raw.githubusercontent.com/Fanomez4ntsoa/Fanomez4ntsoa/main/assets/gif-profile.gif"/> </p>
 
 ## Contact : 
-- GitHub : https://github.com/Fanomez4ntsoa 
-- Facebook : https://facebook.com/voary.randrianarison.fanomezantsoa 
-- Linkedin: https://www.linkedin.com/in/voary-fanomezantsoa-randrianarison/ 
+- GitHub : https://github.com/Fanomez4ntsoa
+- LinkedIn: https://www.linkedin.com/in/voary-fanomezantsoa-randrianarison/ 
 - Email : voary.fanomezantsoa@gmail.com
 
 ## Mes Réseaux :
