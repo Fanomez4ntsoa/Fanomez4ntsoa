@@ -1,18 +1,13 @@
 
-## Contact : 
-- GitHub : https://github.com/Fanomez4ntsoa
-- LinkedIn: https://www.linkedin.com/in/voary-fanomezantsoa-randrianarison/ 
-- Email : voary.fanomezantsoa@gmail.com
-
 ## Networks :
 <p align="center">
 <a href="https://codepen.io/fanomez4ntsoa"><img src="https://img.shields.io/badge/-@voary-1769FF?style=flat&logo=Codepen&logoColor=white"></a>
 <a href="https://linkedin.com/in/voary-fanomezantsoa-randrianarison"><img src="https://img.shields.io/badge/-Voary%20fanomezantsoa-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:voary.fanomezantsoa@gmail.com"><img src="https://img.shields.io/badge/-voary.fanomezantsoa@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/__voaryy"><img src="https://img.shields.io/badge/-@__voary-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://facebook.com/voary.randrianarison.fanomezantsoa"><img src="https://img.shields.io/badge/-@Voary Randrianarison-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://join.skype.com/invite/EazuPFojQZLn"><img src="https://img.shields.io/badge/-Voary-00Aff0?style=flat&logo=skype&logoColor=white"/></a>
+<a href="https://instagram.com/__voaryy"><img src="https://img.shields.io/badge/-@__voaryy-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://t.me/voaryFanomezantsoa"><img src="https://img.shields.io/badge/-@voary_Fanomezantsoa-3390ec?style=flat&logo=telegram&logoColor=white"/></a>
 </p>
-
 
 ## Github Analytics
 <p align="left">
