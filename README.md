@@ -12,7 +12,7 @@
 <p align="center">
 <a href="https://github.com/Fanomez4ntsoa">
   <img height="180em" src="https://streak-stats.demolab.com/?user=fanomez4ntsoa&theme=hacker" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fanomez4ntsoa&layout=compact&theme=chartreuse-dark&text_color=7fff00&border_color=20c20e"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fanomez4ntsoa&layout=compact&theme=chartreuse-dark&title_color=20c20e&text_color=20c20e&border_color=20c20e"/>
 </a>
 </p>
 
