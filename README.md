@@ -9,10 +9,10 @@
 </p>
 
 ## Github Analytics
-<p align="left">
+<p align="center">
 <a href="https://github.com/Fanomez4ntsoa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fanomez4ntsoa&show_icons=true&theme=algolia"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fanomez4ntsoa&layout=compact&theme=algolia"/>
+  <img height="180em" src="https://streak-stats.demolab.com/?user=fanomez4ntsoa&theme=hacker" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fanomez4ntsoa&layout=compact&theme=chartreuse-dark&text_color=7fff00&border_color=20c20e"/>
 </a>
 </p>
 
